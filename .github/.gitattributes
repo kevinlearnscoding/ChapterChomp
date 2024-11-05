@@ -1,3 +1,6 @@
 *.py linguist-language=Python
-* linguist-vendored
-*.py linguist-vendored=false
+*.html linguist-hidden
+*.txt linguist-hidden
+*.toc linguist-hidden
+*.zip linguist-hidden
+*.pkg linguist-hidden
