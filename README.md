@@ -1,6 +1,6 @@
 # ChapterChomp
 
-**ChapterChomp** is a simple application for parsing Final Cut Pro X FCPXML files to extract timecodes and titles of Chapter Markers. The app generates a table of chapter markers that can be copied to the clipboard or saved as a text file.
+**ChapterChomp** is a simple application for parsing Final Cut Pro X FCPXML files to extract timecodes and titles of Chapter Markers. The app generates a table of chapter markers that can be copied to the clipboard or saved as a text file. This is targeted at YouTube creators who want to use the YouTube Chapters feature. 
 
 ## Features
 - **Parse FCPXML**: Quickly extracts chapter marker information, including timecodes and titles.
